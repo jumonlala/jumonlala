@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on writing machine learning codes in mojo.
+
 🌱 I’m currently learning data manipulation and management. 
+
 👯 I’m looking to collaborate on computer vision projects.
+
 😄 Pronouns: she/her
